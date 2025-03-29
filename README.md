@@ -33,3 +33,4 @@ Performance Benchmarks: Enable users to compare their assets against major bench
 
 
 Video - https://drive.google.com/file/d/1tNs_x1J7GIVP8X7lisGF7Rjsi7Kcqz1r/view?usp=sharing
+Netlify - https://stellar-pasca-603ac8.netlify.app/
